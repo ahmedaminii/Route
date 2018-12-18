@@ -1,0 +1,114 @@
+*{
+    
+    
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.sup3{
+    
+    
+    height: 500px;
+    overflow: auto;
+    margin: auto;
+    width: 100%;
+    background-color:  #f1f1f1;
+        
+}
+
+.sup3 h1 {
+    
+    text-align: center;
+    padding-top: 60px;
+    font-size: 40px;
+    font-family: 'Roboto', sans-serif;
+
+}
+.sup3 div{
+    
+    width: 20%;
+    float: left;
+    text-align: center;
+    background-color:  #f1f1f1;
+    padding-top: 80px;
+    
+}
+.sup3 div h3{
+    
+    color: #333333;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 26px;
+
+
+    
+}
+
+.sup3 div p{
+    
+    font-family: 'Roboto', sans-serif;
+color: #555555;
+    font-weight: 400;
+    font-style: normal;
+    line-height: 25px;
+
+    
+}
+.sup3 div i{
+    
+    font-size: 30px;
+    color:#ff305b;
+}
+.clr{
+    
+    clear: both;
+}
+
+.about1{
+    padding-top: 15px;
+    float: left;
+    padding-left: 15px;
+    margin-left: 20%;
+    
+}
+. about img{
+    
+    float: left;
+    overflow: hidden;
+    width: 100%;
+    
+}
+.som{
+    
+    float:right;
+    width: 50%;
+    
+    
+}
+.lu li{
+    
+    float: left;
+    width: 50%;
+}
+.sup5{
+margin: 20px;   
+    padding-left: 20px;
+    text-align: center;
+}
+.sup5 img{
+    
+    width: 30%;
+    float: left;
+    margin: 10px;
+    padding: 5px;
+    
+    
+}
+.sup5 .img1{
+    width: 100%;
+}
+
